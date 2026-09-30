@@ -1,0 +1,5 @@
+occupancy_band,nights,fnb_per_occupied_room,outside_guest_pct
+1. Under 60%,154,56.1,24.2
+2. 60-80%,102,49.31,14.9
+3. 80-95%,235,50.2,13.3
+4. 95%+,240,54.05,11.7
